@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017 The LineageOS Project
+ * Copyright (c) 2017-2018 The LineageOS Project
  * Copyright (c) 2017 Balázs Triszka <balika011@protonmail.ch>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
